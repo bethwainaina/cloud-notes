@@ -84,3 +84,6 @@ Computer → Router → Internet → Cloud Server
 2. Router translates private IP to public IP (NAT)
 3. Data travels across the internet
 4. Server responds back to the computer
+   ### image
+   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/80249954-ee8f-49b4-b9ef-7cdc7e469173" />
+
